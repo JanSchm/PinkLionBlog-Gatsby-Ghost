@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://pinklion-blog.herokuapp.com",
+    "apiUrl": "https://blog.pinklion.xyz/",
     "contentApiKey": "766e5b59993fed818380b4ef5e" 
   },
   "production": {
-    "apiUrl": "https://pinklion-blog.herokuapp.com",
+    "apiUrl": "https://blog.pinklion.xyz/",
     "contentApiKey": "766e5b59993fed818380b4ef5e"
   }
 }
